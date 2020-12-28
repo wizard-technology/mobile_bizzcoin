@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "272929227151",
+    "project_id": "bizzpayment-d02bb",
+    "storage_bucket": "bizzpayment-d02bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272929227151:android:9849abdb67748110fc4bfa",
+        "android_client_info": {
+          "package_name": "com.bizzpayment.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272929227151-2fanptet5059sius2p48cp2sp7srbvbu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArIZtBzVPdkYOzmnwUzcM5PYaOpum0bgo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272929227151-2fanptet5059sius2p48cp2sp7srbvbu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
